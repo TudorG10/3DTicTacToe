@@ -1,6 +1,7 @@
-package Backend;
+package tst;
 
 public class Board {
+	
 	private int[][][] gameBoard;
 	private int[][] availableSpot;
 
