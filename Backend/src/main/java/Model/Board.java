@@ -1,4 +1,4 @@
-package tst;
+package src.main.java.Model;
 
 public class Board {
 	
